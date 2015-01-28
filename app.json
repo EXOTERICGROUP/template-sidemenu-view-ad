@@ -9,5 +9,6 @@
 "type":"appdesigner",
 "keywords":["App Designer"],
 "highlights" : ["App Designer"],
-"relationship":"side menu"
+"relationship":"side menu",
+"projectTypeName": "com.intel.xdk.projecttype.webapp"
 }
